@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSTwentyFour
+  title: 24
+  author: GhostSalt
+  description: 'Yet another module named after a number. I don''t know if that''s
+    a good thing or a bad thing.
+
+
+    This module was inspired by a fact that my Maths / Further Maths teacher told
+    me:
+
+    "You can make 24 with any set of distinct single-digit natural numbers, using
+    addition, subtraction, multiplication and division, and using all four numbers.",
+    or something like that.
+
+    That statement is actually not true. A counter example is {3, 4, 6, 7}, which,
+    among others, is on this module''s blacklist.
+
+    There''s an interesting set, namely {1, 3, 4, 6}, which only has one solution:
+    6/(1-(3/4)), which I thought was cool. It doesn''t work with the module, though.
+
+
+    Twitch Plays supported, as always. :)'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: b9249ca17297ce94ab49bc2e24d06cfd, type: 3}
